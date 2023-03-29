@@ -12,7 +12,7 @@ people:
 - {name: 'Dr. Zheng Kai, PhD', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/asd-faculty-zheng-kai.jpeg', url: 'zheng-kai'}
 
 collaborators:
-- {name: 'Dr. Zheng Kai, PhD', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/asd-faculty-zheng-kai.jpeg', url: 'zheng-kai'}
+- {name: 'Dr. Michal Gath-Morad, PhD', title: 'Postdoctoral Fellow', department: 'The Bartlett School of Architecture', institution: 'University College London', institution_address: '140 Hampstead Road, London, NW1 2BX, GB', image: 'assets/img/michal.jpeg'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
