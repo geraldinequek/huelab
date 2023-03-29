@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Zheng Kai"
+title: "Dr. Zheng Kai, PhD"
 ---
 
 Lecturer
