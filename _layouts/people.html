@@ -23,13 +23,13 @@ layout: default
 {% for person in site.data.settings.collaborators %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ people.name }}</h5>
-    <p>{{ people.title }}</p>
-    <p>Email: {{ people.email }}</p>
-    <p><a href="{{ site.github.url }}/people/{{ people.url }}">Biography</a></p>
+    <h5>{{ pcollaborators.name }}</h5>
+    <p>{{ collaborators.title }}</p>
+    <p>Email: {{ collaborators.email }}</p>
+    <p><a href="{{ site.github.url }}/collaborators/{{ collaborators.url }}">Biography</a></p>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ people.image }}" alt="Contact" width="50%">
+    <img src="{{ site.github.url }}/{{ collaborators.image }}" alt="Contact" width="50%">
   </div>
 </div>
 {% endfor %}
