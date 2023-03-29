@@ -1,4 +1,4 @@
 ---
-layout: cv
+# layout: cv
 # title: "CV"
 ---
