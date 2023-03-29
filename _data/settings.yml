@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Geraldine Quek', title: 'Faculty Fellow', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'geraldine_quek@sutd.edu.sg', office: 'Building 1 Level 6', image: 'assets/img/GQ_Photo_BnW.jpg', url: 'geraldine-quek'}
