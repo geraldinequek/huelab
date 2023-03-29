@@ -6,8 +6,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Dr. Geraldine Quek', title: 'Faculty Fellow', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'geraldine_quek@sutd.edu.sg', office: 'Building 1 Level 6', image: 'assets/img/primary-investigator.jpg', url: 'geraldine-quek'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Dr. Geraldine Quek', title: 'Faculty Fellow', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'geraldine_quek@sutd.edu.sg', office: 'Building 1 Level 6', image: 'assets/img/GQ_Photo_BnW.jpg, url: 'geraldine-quek'}
+- {name: 'Dr. Zheng Kai', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/lab-technician.jpg', url: 'zheng-kai'}
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
