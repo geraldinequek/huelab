@@ -1,4 +1,5 @@
 menu:
+- {name: 'about', url: '/about'}
 - {name: 'people', url: '/people'}
 # - {name: 'projects', url: '/projects'}
 - {name: 'publications', url: '/publications'}
@@ -11,7 +12,7 @@ people:
 - {name: 'Dr. Zheng Kai, PhD', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/asd-faculty-zheng-kai.jpeg', url: 'zheng-kai'}
 
 collaborators:
-- {name: 'You', title: 'Contact us for collaborations!', department: '-', institution: '-', institution_address: '-', email: '-', image: 'assets/img/graduate-student.jpg'}
+- {name: 'Dr. Zheng Kai, PhD', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/asd-faculty-zheng-kai.jpeg', url: 'zheng-kai'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
