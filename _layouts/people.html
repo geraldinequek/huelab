@@ -20,16 +20,16 @@ layout: default
 {% endfor %}
 
 <h3 class="fw-bold border-bottom pb-3 mb-5">Collaborators</h3>
-{% for person in site.data.settings.collaborators %}
+{% for colla in site.data.settings.collaborators %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ pcollaborators.name }}</h5>
-    <p>{{ collaborators.title }}</p>
-    <p>Email: {{ collaborators.email }}</p>
-    <p><a href="{{ site.github.url }}/collaborators/{{ collaborators.url }}">Biography</a></p>
+    <h5>{{ colla.name }}</h5>
+    <p>{{ colla.title }}</p>
+    <p>Email: {{ colla.email }}</p>
+    <p><a href="{{ site.github.url }}/people/{{ colla.url }}">Biography</a></p>
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/{{ collaborators.image }}" alt="Contact" width="50%">
+    <img src="{{ site.github.url }}/{{ colla.image }}" alt="Contact" width="50%">
   </div>
 </div>
 {% endfor %}
