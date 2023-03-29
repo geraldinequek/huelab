@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dr. Geraldine Quek"
+title: "Dr. Geraldine Quek, PhD"
 ---
 
 Faculty Early Career Award Fellow
