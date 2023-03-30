@@ -13,7 +13,7 @@ people:
 
 collaborators:
 - {name: 'Dr. Riccardo Talami, PhD', title: 'Research Fellow', department: 'Department of the Built Environment', institution: 'National University of Singapore (NUS)', institution_address: '4 Architecture Drive, SDE1, Singapore 117566', image: 'assets/img/riccardo.jpeg'}
-- {name: 'Dr. Thanyalak Srisamranrungruang, PhD', title: 'Postdoctoral Researcher', department: ' ', institution: 'Meiji University', institution_address: '1 Chome-1 Kanda Surugadai, Chiyoda City, Tokyo 101-8301, Japan', image: 'assets/img/thanya.png'}
+- {name: 'Dr. Thanyalak Srisamranrungruang, PhD', title: 'Postdoctoral Researcher', department: 'The Organization for the Strategic Coordination of Research and Intellectual Properties', institution: 'Meiji University', institution_address: 'Kawasaki, Kanagawa, 214-8571, Japan', image: 'assets/img/thanya.png'}
 - {name: 'Dr. Michal Gath-Morad, PhD', title: 'SNSF Postdoctoral Fellow', department: 'The Bartlett School of Architecture', institution: 'University College London', institution_address: '140 Hampstead Road, London, NW1 2BX, GB', image: 'assets/img/michal.jpeg'}
 
 courses:
