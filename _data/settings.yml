@@ -5,10 +5,11 @@ menu:
 # - {name: 'projects', url: '/projects'}
 # - {name: 'courses', url: '/courses'}
 # - {name: 'cv', url: '/cv'}
+- {name: 'join us', url: '/joinus'}
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Dr. Geraldine Quek, PhD', title: 'Faculty Fellow', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'geraldine_quek@sutd.edu.sg', office: 'Building 1 Level 6', image: 'assets/img/GQ_Photo_BnW.jpg', url: 'geraldine-quek'}
+- {name: 'Dr. Geraldine Quek, PhD', title: 'Head of HUE Lab, Faculty Fellow', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'geraldine_quek@sutd.edu.sg', office: 'Building 1 Level 6', image: 'assets/img/GQ_Photo_BnW.jpg', url: 'geraldine-quek'}
 - {name: 'Dr. Zheng Kai, PhD', title: 'Lecturer', department: 'Architecture and Sustainable Design', institution: 'Singapore University of Technology and Design', institution_address: '8 Somapah Road, Singapore 487372', email: 'kai_zheng@sutd.edu.sg', office: 'Building 1 Level 7', image: 'assets/img/asd-faculty-zheng-kai.jpeg', url: 'zheng-kai'}
 
 collaborators:
